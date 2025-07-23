@@ -1,1 +1,0 @@
-examples/image_classification/python/image_classifier
